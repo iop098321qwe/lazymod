@@ -6,3 +6,4 @@
 
 alias ld='lazydocker'
 alias lg='lazygit'
+alias lsh='lazyssh'
