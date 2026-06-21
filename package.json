@@ -1,6 +1,6 @@
 {
   "name": "lazymod",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "Aliases for launching terminal UIs in the lazy tool family. Provides short commands for docker, git, and ssh dashboards.",
   "main": "index.js",
   "scripts": {
